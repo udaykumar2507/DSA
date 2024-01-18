@@ -11,9 +11,9 @@ class Solution {
         }
         if (i==-1){
             return "";
-        }else{
-            return nums.substring(0,i+1); 
         }
+            return nums.substring(0,i+1); 
+       
 
         
     }
